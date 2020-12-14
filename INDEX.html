@@ -1,0 +1,44 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="WilsonF1.css">
+    <title>Home of Wilson F1 Racing</title>
+</head>
+<body>
+    <div id="wrapper">
+<header>
+   <h1>Wilson F1 Racing</h1>
+</header>
+<nav> 
+    <ul>
+        <li><a href="index.html">Home &emsp;&emsp;</a></li>
+        <li><a href="schedule.html">Schedule &emsp;</a></li>
+        <li><a href="2020_Standings.html">Driver Standings &emsp;</a></li>
+        <li><a href="contact.html">Contact</a></li>
+    </ul>
+</nav>
+<main>
+    
+    <table>
+        
+        <tr>
+        <th> 2020 Champion Winning Car</th>
+           <td><img src="/CISIWEB-72-Final-Project/mercedes2.jpg" alt="Australian Flag" height="500" width="968"></td>
+            </tr>
+        
+    </table>
+
+    <h4>Follow us for the latest news in the Formula 1 world of racing!</h4>
+<div class="button">Subscribe</div>
+</main>
+<footer>Copyright &copy; 2020 Troy Wilson 
+        <br>
+        <a href="mailto:twilson0015@panther.chaffey.edu">twilson0015@pather.chaffey.edu</a>
+</footer>
+</div>
+</body>
+</html>
